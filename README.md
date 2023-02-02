@@ -1,3 +1,3 @@
 # Odraw - Client
 
-Voir projet `gestion-projet.odraw-atelier` pour l'énoncé.
+Voir projet [s2.1.e01-odraw](https://github.com/O-clock-Minotaure/s2.1.e01-odraw) pour l'énoncé.
